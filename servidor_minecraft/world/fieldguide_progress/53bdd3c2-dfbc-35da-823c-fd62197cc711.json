@@ -1,0 +1,41 @@
+{
+  "unlocked": [
+    "entity:armageddon_mod/the_iron_colossus",
+    "entity:armageddon_mod/the_gobelin_lord",
+    "entity:armageddon_mod/eldoraththe_ancient_builder",
+    "entity:mowziesmobs/sculptor",
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager",
+    "entity:mowziesmobs/ferrous_wroughtnaut"
+  ],
+  "seen": [
+    "entity:armageddon_mod/the_iron_colossus"
+  ],
+  "times": {
+    "entity:armageddon_mod/the_iron_colossus": 1779915884466,
+    "entity:armageddon_mod/the_gobelin_lord": 1779941311934,
+    "entity:armageddon_mod/eldoraththe_ancient_builder": 1780291180310,
+    "entity:mowziesmobs/sculptor": 1780031055643,
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager": 1780286656909,
+    "entity:mowziesmobs/ferrous_wroughtnaut": 1779995791245
+  },
+  "gameTimes": {
+    "entity:armageddon_mod/the_iron_colossus": 322019,
+    "entity:armageddon_mod/the_gobelin_lord": 673946,
+    "entity:armageddon_mod/eldoraththe_ancient_builder": 1580136,
+    "entity:mowziesmobs/sculptor": 1315659,
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager": 1501147,
+    "entity:mowziesmobs/ferrous_wroughtnaut": 931992
+  },
+  "customNames": {},
+  "customDescriptions": {},
+  "entryPhotographs": {},
+  "selectedVariants": {},
+  "journalTitle": "My Field Guide",
+  "journalPages": [
+    {
+      "title": "",
+      "content": "",
+      "timestamp": 1779933328066
+    }
+  ]
+}

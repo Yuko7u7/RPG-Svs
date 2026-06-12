@@ -1,0 +1,21 @@
+{
+  "unlocked": [
+    "entity:armageddon_mod/the_iron_colossus",
+    "entity:armageddon_mod/the_gobelin_lord"
+  ],
+  "seen": [],
+  "times": {
+    "entity:armageddon_mod/the_iron_colossus": 1779915967382,
+    "entity:armageddon_mod/the_gobelin_lord": 1779991637860
+  },
+  "gameTimes": {
+    "entity:armageddon_mod/the_iron_colossus": 323678,
+    "entity:armageddon_mod/the_gobelin_lord": 848925
+  },
+  "customNames": {},
+  "customDescriptions": {},
+  "entryPhotographs": {},
+  "selectedVariants": {},
+  "journalTitle": "My Field Guide",
+  "journalPages": []
+}

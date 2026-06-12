@@ -1,0 +1,27 @@
+{
+  "unlocked": [
+    "entity:armageddon_mod/the_iron_colossus",
+    "entity:armageddon_mod/the_gobelin_lord",
+    "entity:armageddon_mod/eldoraththe_ancient_builder",
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager"
+  ],
+  "seen": [],
+  "times": {
+    "entity:armageddon_mod/the_iron_colossus": 1779915763049,
+    "entity:armageddon_mod/the_gobelin_lord": 1779940849618,
+    "entity:armageddon_mod/eldoraththe_ancient_builder": 1780290512304,
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager": 1780290348979
+  },
+  "gameTimes": {
+    "entity:armageddon_mod/the_iron_colossus": 319591,
+    "entity:armageddon_mod/the_gobelin_lord": 661832,
+    "entity:armageddon_mod/eldoraththe_ancient_builder": 1567741,
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager": 1564475
+  },
+  "customNames": {},
+  "customDescriptions": {},
+  "entryPhotographs": {},
+  "selectedVariants": {},
+  "journalTitle": "My Field Guide",
+  "journalPages": []
+}
